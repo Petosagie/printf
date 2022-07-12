@@ -1,5 +1,5 @@
-#ifndef _FUNCTION_PRINTF_H_
-#define _FUNCTION_PRINTF_H_
+#ifndef FUNCTION_PRINTF_H_
+#define FUNCTION_PRINTF_H_
 #include <stdarg.h>
 #include <stdlib.h>
 #include <stddef.h>
